@@ -580,8 +580,8 @@ gap: 0;
   align-items: center;
 }
 .titu{
-  width: 475px;
-  font-size: 20px;
+  width: 100%;
+  font-size: 15px;
 }
 header{
   width: 100%;
